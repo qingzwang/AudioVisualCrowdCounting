@@ -3,3 +3,10 @@ This is the code for AudioVisual crowd counting. To use the code you need to ins
 
 ## Dataset
 We propose a new dataset for crowd counting, which is composed of around 2000 annotaed images token in different locations in China and each image corresponds to a 1 second audio clip and a density map. The images are in different illuminations.
+
+## Train
+
+## Acknowledgement
+The repository is derived from [C-3-Framework](https://github.com/gjy3035/C-3-Framework).
+
+## Citation
