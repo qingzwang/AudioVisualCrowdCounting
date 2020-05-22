@@ -18,11 +18,11 @@ After training, you can run *my_test.py* to test the trained model. Note that in
 The repository is derived from [C-3-Framework](https://github.com/gjy3035/C-3-Framework).
 
 ## Citation
-'''
+```
 @article{gao2019c,
   title={Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions},
   author={Di Hu and Lichao Mou and Qingzhong Wang and Junyu Gao and Yuansheng Hua and Dejing Dou and Xiao Xiang Zhu},
   journal={arXiv preprint},
   year={2020}
 }
-'''
+```
