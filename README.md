@@ -19,7 +19,7 @@ The repository is derived from [C-3-Framework](https://github.com/gjy3035/C-3-Fr
 
 ## Citation
 ```
-@article{gao2019c,
+@article{hu2020,
   title={Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions},
   author={Di Hu and Lichao Mou and Qingzhong Wang and Junyu Gao and Yuansheng Hua and Dejing Dou and Xiao Xiang Zhu},
   journal={arXiv preprint},
